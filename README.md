@@ -18,8 +18,12 @@ Removed sections:
 
 <div align="center">
 
-  <img src="public/planet-08.png" alt="logo" width="600" height="auto" />
-  <h1>Metaverse Readme</h1>
+  <div align="left"> 
+<h2>Lets Explore..</h2>
+<a href="https://metaverse-sage-psi.vercel.app/">
+    <img src="https://i.ibb.co/sbSHWH0/Thumbnail-1.png" alt="repo thumbnail" />
+  </a>
+</div>
 </div>
 
 <br />
@@ -29,7 +33,6 @@ Removed sections:
 # :notebook_with_decorative_cover: Table of Contents
 
 - [About the Project](#star2-about-the-project)
-- [Chat Application](https://i.ibb.co/sbSHWH0/Thumbnail-1.png)
   - [Tech Stack](#space_invader-tech-stack)
   - [Features](#dart-features)
   - [Color Reference](#art-color-reference)
@@ -49,15 +52,6 @@ Removed sections:
 <!-- About the Project -->
 
 ## :star2: About the Project
-
-## 🪐 Metaverse Madness
-
-<div align="left"> 
-<h2>Lets Explore..</h2>
-<a href="https://metaverse-sage-psi.vercel.app/">
-    <img src="https://i.ibb.co/sbSHWH0/Thumbnail-1.png" alt="repo thumbnail" />
-  </a>
-</div>
 
 <!-- TechStack -->
 
