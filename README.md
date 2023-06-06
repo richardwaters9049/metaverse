@@ -86,11 +86,11 @@ Removed sections:
 
 ## :star2: About the Project
 
+## Chat Application
+
 <div align="left"> 
 <h2>Lets Explore..</h2>
 </div>
-
-## Chat Application
 
 <!-- TechStack -->
 
