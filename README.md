@@ -86,7 +86,7 @@ Removed sections:
 ## :star2: About the Project
 
 <div align="center"> 
-  <img src="./publiic/repo-img.jpeg" alt="screenshot" />
+  <img src="../publiic/repo-img.jpeg" alt="screenshot" />
 </div>
 
 <!-- TechStack -->
