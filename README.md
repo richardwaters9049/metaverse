@@ -8,7 +8,12 @@ First, run the development server:
 npm run dev
 # or
 yarn dev
-```
+
+
+```![repo-img](https://github.com/richardwaters9049/metaverse/assets/119029825/8e411ad4-b2d9-4839-ab8b-8e4488722ef9)
+
+
+
 
 Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
 
