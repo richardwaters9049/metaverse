@@ -86,10 +86,13 @@ Removed sections:
 
 ## :star2: About the Project
 
-## Chat Application
+## 🪐 Metaverse Madness
 
 <div align="left"> 
 <h2>Lets Explore..</h2>
+<a href="https://metaverse-sage-psi.vercel.app/">
+    <img src="https://i.ibb.co/sbSHWH0/Thumbnail-1.png" alt="repo thumbnail" />
+  </a>
 </div>
 
 <!-- TechStack -->
