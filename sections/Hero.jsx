@@ -11,7 +11,7 @@ const Hero = () => (
       variants={staggerContainer}
       initial="hidden"
       whileInView="show"
-      viewport={{ once: false, amount: 0.25 }}
+      viewport={{ once: false, amount: 0 }}
       className={`${styles.innerWidth} mx-auto flex flex-col`}
     >
       <div className="flex justify-center items-center flex-col relative z-10">
@@ -30,7 +30,7 @@ const Hero = () => (
 
       <motion.div
         variants={slideIn("right", "tween", 0.2, 1)}
-        className="relative w-full md:-mt-[20px] -mt-[12px]"
+        className=" test-class relative w-full md:-mt-[20px] -mt-[12px]"
       >
         <div className="absolute w-full h-[300px] hero-gradient rounded-tl-[140px] z-[0] -top-[30px]" />
 
