@@ -86,7 +86,7 @@ Removed sections:
 
 ## :star2: About the Project
 
-<div align="center"> 
+<div align="left"> 
 <h2>Lets Explore..</h2>
 </div>
 
