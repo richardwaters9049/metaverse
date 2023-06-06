@@ -65,6 +65,7 @@ Removed sections:
 # :notebook_with_decorative_cover: Table of Contents
 
 - [About the Project](#star2-about-the-project)
+- [Chat Application](https://i.ibb.co/sbSHWH0/Thumbnail-1.png)
   - [Tech Stack](#space_invader-tech-stack)
   - [Features](#dart-features)
   - [Color Reference](#art-color-reference)
@@ -86,8 +87,10 @@ Removed sections:
 ## :star2: About the Project
 
 <div align="center"> 
-  <img src="/publiic/repo-img.jpeg" alt="screenshot" />
+<h2>Lets Explore..</h2>
 </div>
+
+## Chat Application
 
 <!-- TechStack -->
 
