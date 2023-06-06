@@ -18,7 +18,7 @@ Removed sections:
 
 <div align="center">
 
-  <img src="public/planet-08.png" alt="logo" width="200" height="auto" />
+  <img src="public/planet-08.png" alt="logo" width="600" height="auto" />
   <h1>Metaverse Readme</h1>
 </div>
 
