@@ -16,14 +16,12 @@ Removed sections:
 - FAQ
 -->
 
-<div align="center">
+# 🪐 Lets Explore
 
-  <div align="left"> 
-<h2> 🪐 Lets Explore..</h2>
+<div align="center">
 <a href="https://metaverse-sage-psi.vercel.app/">
     <img src="https://i.ibb.co/sbSHWH0/Thumbnail-1.png" alt="repo thumbnail" />
   </a>
-</div>
 </div>
 
 <br />
