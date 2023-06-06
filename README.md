@@ -20,6 +20,7 @@ Removed sections:
 
   <img src="https://raw.githubusercontent.com/Louis3797/awesome-readme-template/main/assets/logo.png" alt="logo" width="200" height="auto" />
   <h1>Metaverse Readme</h1>
+</div>
 
 <br />
 
